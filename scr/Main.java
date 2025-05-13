@@ -1,5 +1,8 @@
 import java.util.Scanner;
 
+/**
+ * Class Main implements the Library Menu options with input validation
+ */
 public class Main {
     public static void main(String[] args) {
         Library library = new Library();
