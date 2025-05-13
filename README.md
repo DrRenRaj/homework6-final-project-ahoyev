@@ -3,6 +3,8 @@
 Good evening!
 The code is in Final.zip file, plesae use Import Eclipse feature to download the Final project with all dependencies. 
 
+All Java Project files (e.g. Book.java) are duplicated in "scr" subfolder.
+
 !!!!!!!!!!!!!!!!!!!!!!!!!!
 
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/SrQkRDOx)
